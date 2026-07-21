@@ -19,7 +19,7 @@ Projeto desenvolvido no Looker Studio para análise de vendas.
 
 ### Mapa vendas totais
 
-![Mapa](mapa_preenchido.png)
+![Mapa](gráfico_preenchido.png)
 
 ### População de 10 a 14 anos
 
