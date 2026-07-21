@@ -1,6 +1,6 @@
 # Dashboard de Vendas
 
-Projeto desenvolvido no Power BI para análise de vendas.
+Projeto desenvolvido no Data Studio para análise de vendas.
 
 ![Dashboard](dashboard.png)
 
