@@ -15,7 +15,7 @@ Projeto desenvolvido no Looker Studio para análise de vendas.
 
 ### Gráfico temporal de vendas totais
 
-![Mapa](gráfico preenchido.png)
+![Gráfico](gráfico_preenchido.png)
 
 ### Ranking dos Estados
 
